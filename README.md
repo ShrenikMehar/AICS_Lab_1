@@ -12,10 +12,10 @@ Save code in Github
 # AICS_Lab_2
 ### Lab 2 : Perform Simple Linear Regression
 
-Create Github Account
+Import Dataset and plot Dataframe
 
-Link Google Collab with Github
+Learn Model using Sklearn
 
-Write code in Collab
+Find Coefficient and Intercept
 
-Save code in Github
+Predict Outcome for various inputs
