@@ -19,3 +19,14 @@ Learn Model using Sklearn
 Find Coefficient and Intercept
 
 Predict Outcome for various inputs
+
+# AICS_Lab_3
+### Lab 3 : Perform Multiple Linear Regression
+
+Import Dataset and plot Dataframe
+
+Learn Model using Sklearn
+
+Find Coefficients and Intercept
+
+Predict Outcome for various inputs
