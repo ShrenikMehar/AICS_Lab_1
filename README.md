@@ -30,3 +30,14 @@ Learn Model using Sklearn
 Find Coefficients and Intercept
 
 Predict Outcome for various inputs
+
+# AICS_Lab_4
+### Lab 4 : Perform Logistic Regression
+
+Import Dataset and plot Dataframe
+
+Learn Model using Sklearn
+
+Find Coefficients and Intercept
+
+Predict Outcome probabilties for various inputs
