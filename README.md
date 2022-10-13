@@ -41,3 +41,14 @@ Learn Model using Sklearn
 Find Coefficients and Intercept
 
 Predict Outcome probabilties for various inputs
+
+# AICS_Lab_5
+### Lab 5 : Perform K-Means Clustering
+
+Import Dataset and plot Dataframe
+
+Learn Model using Sklearn
+
+Find Centroids until optimized output
+
+Display allocated clusters of each points
